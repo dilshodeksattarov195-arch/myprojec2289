@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersecrypt",
+        "uuid": 21885129,
+        "checksum": "zu9nn"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
